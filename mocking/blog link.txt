@@ -1,0 +1,16 @@
+semaphoreci.com/community/tutorials/getting-started-with-mocking-in-python
+
+medium.com/geekculture/right-way-to-test-mock-and-patch-in-python-b02138fc5040
+
+https://docs.python.org/3/library/unittest.mock-examples.html
+
+***************************************************************************
+https://www.pythontutorial.net/python-unit-testing/python-mock-requests/
+
+***************************************************************************
+
+https://auth0.com/blog/mocking-api-calls-in-python/
+
+https://realpython.com/testing-third-party-apis-with-mocks/
+
+https://towardsdatascience.com/testing-mock-requests-for-api-wrapper-752359807ad7
